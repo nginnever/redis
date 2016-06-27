@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nginnever/redis#readme",
   "dependencies": {
+    "ipfs": "^0.13.0",
     "orbit-db": "^0.9.7"
   }
 }
